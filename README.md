@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @24AMK10
-- 👀 I’m interested in Python, Machine learning , AI
-- 🌱 I’m currently learning Python and some other stuff
-- 💞️ I’m looking to collaborate on basic to medium level python projects.
+- 👀 I’m interested in Lot of stuff but mostly how it works
+- 🌱 I’m currently learning Rust and some other stuff
+- 💞️ Looking to Collaborate challenging Tasks.
 - 📫 How to reach me email me at ashish.s.maurya123@gmail.com
 
 <!---
