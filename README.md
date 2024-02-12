@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ashish.s.maurya@gmail.com**
 
-- ⚡ Fun fact **I thinkth**
+- ⚡ Fun fact ** I hated tests Now I know why **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
