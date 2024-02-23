@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Python, GO**
 
-- 👨‍💻 All of my projects are available at [https://github.com/24AMK10/24AMK10/](https://github.com/24AMK10/24AMK10/)
+- 👨‍💻 All of my projects are available at [https://github.com/24AMK10/](https://github.com/24AMK10/)
 
 - 📫 How to reach me **ashish.s.maurya@gmail.com**
 
